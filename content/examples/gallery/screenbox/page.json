@@ -1,0 +1,16 @@
+{
+    "title": "Screenbox",
+    "label": "Screenbox",
+    "description": "Screenbox combined with the vertical layout, where each image is scaled to fit within viewport.",
+    "image": "examples\/assets\/beach.jpg",
+    "gallery": {
+        "layout": "vertical",
+        "classes": "screenbox-90,scrollbutton",
+        "width": "wide",
+        "assets": "examples\/assets\/",
+        "vertical": {
+            "scrollnav": false,
+            "horizontal_rule": false
+        }
+    }
+}
