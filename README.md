@@ -12,4 +12,4 @@
 
 &emsp;&emsp;当然，如果不放心，可以自己选择破解修改，下方是我写的详细教程。
 
-&emsp;&emsp;教程：[X3 photo gallery 图文破解以及我自己修改后的成品-技术教程-1OVE CLUB论坛](https://bbs.1ove.club/thread-4079.htm)
+&emsp;&emsp;教程：[X3 photo gallery 图文破解以及我自己修改后的成品-技术教程-Yiove论坛](https://bbs.yiove.com/thread-4079.htm)
